@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c084ce35-1604-45b5-b2c1-2436e416cfc8" name="Changes" comment="first java tutorials">
+      <change afterPath="$PROJECT_DIR$/src/Multidimensionalarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dowhileloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enhancedforloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javainnstanceperson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loancalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/summingarrrayelements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchexpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchexpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whileloops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +33,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="05add234-aeb6-4509-8c1e-e95d8ef9d498" />
+        <option name="url" value="https://github.com/Exe-Alebs/javalearning" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2L5PWlzQuvS9wcqmfzld8Wxgcx2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +62,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "C:/Users/alebs",
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -47,6 +72,27 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="dowhileloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dowhileloops" />
+      <module name="Alebs first java project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forloops" />
+      <module name="Alebs first java project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loancalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loancalculator" />
+      <module name="Alebs first java project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="switchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="switchStatement" />
       <module name="Alebs first java project" />
@@ -54,8 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="whileloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileloops" />
+      <module name="Alebs first java project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loancalculator" />
+        <item itemvalue="Application.dowhileloops" />
+        <item itemvalue="Application.forloops" />
+        <item itemvalue="Application.whileloops" />
         <item itemvalue="Application.switchStatement" />
       </list>
     </recent_temporary>
@@ -83,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675180615657</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first java tutorials">
+      <created>1675180698490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675180698490</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first java tutorials">
+      <created>1675180953220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675180953220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
