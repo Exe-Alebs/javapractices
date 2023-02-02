@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c084ce35-1604-45b5-b2c1-2436e416cfc8" name="Changes" comment="first java tutorials">
-      <change afterPath="$PROJECT_DIR$/src/Multidimensionalarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dowhileloops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enhancedforloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forloops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javainnstanceperson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loancalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/summingarrrayelements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnimalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classattributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodretiurntypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/switchexpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchexpressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whileloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whileloops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
