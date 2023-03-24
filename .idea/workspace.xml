@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c084ce35-1604-45b5-b2c1-2436e416cfc8" name="Changes" comment="first java tutorials">
-      <change afterPath="$PROJECT_DIR$/src/Constructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EncapsulationS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheriitance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mathclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/accessmodifiersnew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getterandsetters.java" afterDir="false" />
+    <list default="true" id="c084ce35-1604-45b5-b2c1-2436e416cfc8" name="Changes" comment="more practice on java">
+      <change afterPath="$PROJECT_DIR$/src/AbstractClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BowlingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loancalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loancalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +69,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Inheriitance">
-    <configuration name="Constructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constructors" />
+  <component name="RunManager" selected="Application.loancalculator">
+    <configuration name="AbstractClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClasses" />
       <module name="Alebs first java project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getterandsetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getterandsetters" />
+    <configuration name="loancalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loancalculator" />
       <module name="Alebs first java project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.loancalculator" />
+        <item itemvalue="Application.AbstractClasses" />
         <item itemvalue="Application.Inheriitance" />
         <item itemvalue="Application.EncapsulationS" />
         <item itemvalue="Application.Mathclass" />
-        <item itemvalue="Application.Constructors" />
-        <item itemvalue="Application.getterandsetters" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675180953220</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="more practice on java">
+      <created>1678794915225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678794915225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first java tutorials" />
-    <option name="LAST_COMMIT_MESSAGE" value="first java tutorials" />
+    <MESSAGE value="more practice on java" />
+    <option name="LAST_COMMIT_MESSAGE" value="more practice on java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
